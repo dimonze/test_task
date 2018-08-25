@@ -1,8 +1,9 @@
 
-To start testing run: 
-npm install
-npm start
-npm run e2e 
+**To start testing run:**
+
+      npm install
+      npm start
+      npm run e2e 
 
 ##Positive **Test:**
 
