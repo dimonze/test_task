@@ -4,6 +4,8 @@
       npm install
       npm start
       npm run e2e 
+      
+**Link to full plan:** https://drive.google.com/file/d/1MlC3UnfchjLWj5TWU-8NnKIWBnUsv7Xh/view?usp=sharing 
 
 ##Positive **Test:**
 
