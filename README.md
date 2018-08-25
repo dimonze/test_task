@@ -2,7 +2,7 @@
 To start testing run: 
 npm install
 npm start
-npm test 
+npm run e2e 
 
 ##Positive **Test:**
 

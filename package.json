@@ -6,7 +6,8 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/cucumber-js ./e2e/features/test_e2e_budgeting.feature",
+    "test": "jest",
+    "e2e": "./node_modules/.bin/cucumber-js ./e2e/features/test_e2e_budgeting.feature",
     "test:watch": "jest --watch",
     "coverage": "jest --coverage",
     "start": "webpack-dev-server",
